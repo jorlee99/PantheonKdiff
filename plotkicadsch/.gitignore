@@ -1,0 +1,7 @@
+_build/
+*.byte
+*.native
+configure
+setup.*
+.merlin
+*.pdf
